@@ -1,3 +1,3 @@
-module new-repo
+module github.com/piechutowski/new-repo
 
-go 1.24.7
+1.26.0
